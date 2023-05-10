@@ -1,0 +1,80 @@
+
+     .ms-6{
+        margin-left: 20rem;
+     }
+     .reg-btn{
+        color: #289BDE;
+        border: 2px solid #289BDE;
+     }
+     .reg-btn-2{
+        color: #289BDE;
+        background:white;
+     }
+     .carousel-caption{
+        transform: translate(-0%, -50rem);
+     }
+     .px-6{
+        padding-left: 15rem;
+        padding-right: 15rem;
+     }
+     .card{
+       padding-top: 2.5rem;
+       padding-bottom: 2.5rem;
+       border: 1px solid rgba(183, 182, 182, 0.328);
+       border-radius:5px;
+     }
+     .card-2{
+      padding: 2rem;
+      border: 1px solid rgba(183, 182, 182, 0.328);
+     }
+     .ms{
+        margin-left: 12rem;
+     }
+     .mt{
+      margin-top: 7rem;
+      margin-bottom: 5rem;
+     }
+     .color{
+      background-color:#F4FAFD ;
+     }
+     .my-bg{
+      background-color: #289BDE;
+     }
+     .my{
+      margin-top: 6rem;
+      margin-bottom: 5rem;
+     }
+     .carousel-btn{
+      color: black;
+      margin-left: auto;
+     }
+
+     @media only screen and (min-width: 600px) {
+        .carousel-caption{
+        transform: translate(-0%, -5rem);
+     }
+    }
+
+    @media only screen and (min-width: 768px) {
+        .carousel-caption{
+        transform: translate(-0%, -5rem);
+     }
+     .ms{
+        margin-left: 50%;
+     }
+     .px{
+      padding: 0rem 0rem 0rem 2rem;
+     }
+    }
+
+    @media only screen and (min-width: 1200px) {
+        .carousel-caption{
+        transform: translate(-0%, -15rem);
+     }
+     .ms{
+        margin-left: 46%;
+     }
+     .px{
+      padding: 3rem 3rem 3rem 2rem;
+     }
+    }
